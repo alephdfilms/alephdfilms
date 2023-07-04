@@ -17,7 +17,7 @@ _Animator, Web Designer, Teenager Without a Clue, Favorite Color Used To Be Blue
 @@@@@@@@&@#          ,&@@@@@@@@@
 ```
 # Info
-Hi! This is my Github account, but you probably meant to go to https://alephdfilms.github.io. See you there.
+Hi! This is my Github account, but you probably meant to go to https://alephd.neocities.org/. See you there.
 
 # Otherwise...
 - take a look at my old and new repositories.
